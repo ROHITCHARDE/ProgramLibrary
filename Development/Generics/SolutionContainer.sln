@@ -11,7 +11,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeepCopy", "DeepCopy\DeepCo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StaticMethodsAndClasses", "StaticMethodsAndClasses\StaticMethodsAndClasses.csproj", "{4B462379-9290-410B-9BEB-3C4E15973259}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberPattern", "TriangleNumberPattern\NumberPattern.csproj", "{9E734F12-6B76-4C71-85C1-F6AE112851F5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberPattern", "NumberPattern\NumberPattern.csproj", "{9E734F12-6B76-4C71-85C1-F6AE112851F5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

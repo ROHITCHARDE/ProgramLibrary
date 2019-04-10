@@ -8,8 +8,8 @@ C:\Users\rohit.charde\Desktop\Rohit Documents\SolutionContainer\Generics\StaticM
 C:\Users\rohit.charde\Desktop\Rohit Documents\SolutionContainer\Generics\StaticMethodsAndClasses\obj\Debug\StaticMethodsAndClasses.exe
 C:\Users\rohit.charde\Desktop\Rohit Documents\SolutionContainer\Generics\StaticMethodsAndClasses\obj\Debug\StaticMethodsAndClasses.pdb
 E:\ProgramLibrary\Development\Generics\StaticMethodsAndClasses\bin\Debug\StaticMethodsAndClasses.exe.config
-E:\ProgramLibrary\Development\Generics\StaticMethodsAndClasses\obj\Debug\StaticMethodsAndClasses.exe
-E:\ProgramLibrary\Development\Generics\StaticMethodsAndClasses\obj\Debug\StaticMethodsAndClasses.pdb
 E:\ProgramLibrary\Development\Generics\StaticMethodsAndClasses\bin\Debug\StaticMethodsAndClasses.exe
 E:\ProgramLibrary\Development\Generics\StaticMethodsAndClasses\bin\Debug\StaticMethodsAndClasses.pdb
 E:\ProgramLibrary\Development\Generics\StaticMethodsAndClasses\obj\Debug\StaticMethodsAndClasses.csprojResolveAssemblyReference.cache
+E:\ProgramLibrary\Development\Generics\StaticMethodsAndClasses\obj\Debug\StaticMethodsAndClasses.exe
+E:\ProgramLibrary\Development\Generics\StaticMethodsAndClasses\obj\Debug\StaticMethodsAndClasses.pdb
