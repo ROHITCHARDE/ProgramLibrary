@@ -1,0 +1,5 @@
+E:\ProgramLibrary\Development\Generics\TriangleNumberPattern\bin\Debug\NumberPattern.exe.config
+E:\ProgramLibrary\Development\Generics\TriangleNumberPattern\bin\Debug\NumberPattern.exe
+E:\ProgramLibrary\Development\Generics\TriangleNumberPattern\bin\Debug\NumberPattern.pdb
+E:\ProgramLibrary\Development\Generics\TriangleNumberPattern\obj\Debug\NumberPattern.exe
+E:\ProgramLibrary\Development\Generics\TriangleNumberPattern\obj\Debug\NumberPattern.pdb

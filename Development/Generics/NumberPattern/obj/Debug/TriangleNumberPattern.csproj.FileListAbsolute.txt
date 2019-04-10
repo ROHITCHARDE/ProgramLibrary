@@ -1,0 +1,6 @@
+E:\ProgramLibrary\Development\Generics\TriangleNumberPattern\bin\Debug\TriangleNumberPattern.exe.config
+E:\ProgramLibrary\Development\Generics\TriangleNumberPattern\bin\Debug\TriangleNumberPattern.exe
+E:\ProgramLibrary\Development\Generics\TriangleNumberPattern\bin\Debug\TriangleNumberPattern.pdb
+E:\ProgramLibrary\Development\Generics\TriangleNumberPattern\obj\Debug\TriangleNumberPattern.csprojResolveAssemblyReference.cache
+E:\ProgramLibrary\Development\Generics\TriangleNumberPattern\obj\Debug\TriangleNumberPattern.exe
+E:\ProgramLibrary\Development\Generics\TriangleNumberPattern\obj\Debug\TriangleNumberPattern.pdb
