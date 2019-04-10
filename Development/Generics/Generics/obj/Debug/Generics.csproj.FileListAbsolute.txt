@@ -1,0 +1,6 @@
+C:\Users\rohit.charde\Desktop\SolutionContainer\Generics\Generics\bin\Debug\Generics.exe.config
+C:\Users\rohit.charde\Desktop\SolutionContainer\Generics\Generics\bin\Debug\Generics.exe
+C:\Users\rohit.charde\Desktop\SolutionContainer\Generics\Generics\bin\Debug\Generics.pdb
+C:\Users\rohit.charde\Desktop\SolutionContainer\Generics\Generics\obj\Debug\Generics.csprojResolveAssemblyReference.cache
+C:\Users\rohit.charde\Desktop\SolutionContainer\Generics\Generics\obj\Debug\Generics.exe
+C:\Users\rohit.charde\Desktop\SolutionContainer\Generics\Generics\obj\Debug\Generics.pdb

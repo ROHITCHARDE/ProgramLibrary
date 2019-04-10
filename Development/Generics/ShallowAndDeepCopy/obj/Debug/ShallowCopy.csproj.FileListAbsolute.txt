@@ -1,0 +1,6 @@
+C:\Users\rohit.charde\Desktop\SolutionContainer\Generics\ShallowAndDeepCopy\bin\Debug\ShallowAndDeepCopy.exe.config
+C:\Users\rohit.charde\Desktop\SolutionContainer\Generics\ShallowAndDeepCopy\bin\Debug\ShallowAndDeepCopy.exe
+C:\Users\rohit.charde\Desktop\SolutionContainer\Generics\ShallowAndDeepCopy\bin\Debug\ShallowAndDeepCopy.pdb
+C:\Users\rohit.charde\Desktop\SolutionContainer\Generics\ShallowAndDeepCopy\obj\Debug\ShallowCopy.csprojResolveAssemblyReference.cache
+C:\Users\rohit.charde\Desktop\SolutionContainer\Generics\ShallowAndDeepCopy\obj\Debug\ShallowAndDeepCopy.exe
+C:\Users\rohit.charde\Desktop\SolutionContainer\Generics\ShallowAndDeepCopy\obj\Debug\ShallowAndDeepCopy.pdb

@@ -1,0 +1,9 @@
+C:\Users\rohit.charde\Desktop\SolutionContainer\Generics\StaticMethodsAndClasses\bin\Debug\StaticMethodsAndClasses.exe.config
+C:\Users\rohit.charde\Desktop\SolutionContainer\Generics\StaticMethodsAndClasses\bin\Debug\StaticMethodsAndClasses.exe
+C:\Users\rohit.charde\Desktop\SolutionContainer\Generics\StaticMethodsAndClasses\bin\Debug\StaticMethodsAndClasses.pdb
+C:\Users\rohit.charde\Desktop\SolutionContainer\Generics\StaticMethodsAndClasses\obj\Debug\StaticMethodsAndClasses.csprojResolveAssemblyReference.cache
+C:\Users\rohit.charde\Desktop\SolutionContainer\Generics\StaticMethodsAndClasses\obj\Debug\StaticMethodsAndClasses.exe
+C:\Users\rohit.charde\Desktop\SolutionContainer\Generics\StaticMethodsAndClasses\obj\Debug\StaticMethodsAndClasses.pdb
+C:\Users\rohit.charde\Desktop\Rohit Documents\SolutionContainer\Generics\StaticMethodsAndClasses\bin\Debug\StaticMethodsAndClasses.exe.config
+C:\Users\rohit.charde\Desktop\Rohit Documents\SolutionContainer\Generics\StaticMethodsAndClasses\obj\Debug\StaticMethodsAndClasses.exe
+C:\Users\rohit.charde\Desktop\Rohit Documents\SolutionContainer\Generics\StaticMethodsAndClasses\obj\Debug\StaticMethodsAndClasses.pdb
