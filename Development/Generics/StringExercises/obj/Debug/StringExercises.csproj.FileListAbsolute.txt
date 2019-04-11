@@ -1,0 +1,6 @@
+E:\ProgramLibrary\Development\Generics\StringExercises\bin\Debug\StringExercises.exe.config
+E:\ProgramLibrary\Development\Generics\StringExercises\bin\Debug\StringExercises.exe
+E:\ProgramLibrary\Development\Generics\StringExercises\bin\Debug\StringExercises.pdb
+E:\ProgramLibrary\Development\Generics\StringExercises\obj\Debug\StringExercises.csprojResolveAssemblyReference.cache
+E:\ProgramLibrary\Development\Generics\StringExercises\obj\Debug\StringExercises.exe
+E:\ProgramLibrary\Development\Generics\StringExercises\obj\Debug\StringExercises.pdb
