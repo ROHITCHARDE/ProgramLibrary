@@ -1,0 +1,74 @@
+[1mdiff --git a/Development/Generics/StringExercises/Program.cs b/Development/Generics/StringExercises/Program.cs[m
+[1mindex 32405e6..989bb4b 100644[m
+[1m--- a/Development/Generics/StringExercises/Program.cs[m
+[1m+++ b/Development/Generics/StringExercises/Program.cs[m
+[36m@@ -127,6 +127,12 @@[m [mnamespace StringExercises[m
+             {[m
+                 Console.WriteLine("First string is lexicographically greater than second.");[m
+             }[m
+[32m+[m
+[32m+[m[32m            List<string> collectin = new List<string>();[m
+[32m+[m[32m            collectin.Add("string1");[m
+[32m+[m[32m            collectin.Add("astring2");[m
+[32m+[m[32m            IEnumerable<string> b = new List<string>();[m
+[32m+[m[32m            b = collectin.Where(co => co.StartsWith("a"));[m
+         }[m
+ [m
+         static void reverseString()[m
+[36m@@ -192,6 +198,43 @@[m [mnamespace StringExercises[m
+             }[m
+         }[m
+ [m
+[32m+[m[32m        static void addNumericString()[m
+[32m+[m[32m        {[m
+[32m+[m[32m            Console.WriteLine("Enter a number");[m
+[32m+[m[32m            int getNumber = Convert.ToInt32(Console.ReadLine());[m
+[32m+[m[32m            int sum = 0;[m
+[32m+[m[32m            for (int m = 0; getNumber != 0; m++)[m
+[32m+[m[32m            {[m
+[32m+[m[32m                sum = sum + getNumber % 10;[m
+[32m+[m[32m                getNumber = getNumber / 10;[m
+[32m+[m[32m            }[m
+[32m+[m[32m            Console.WriteLine("Result is - {0}", sum);[m
+[32m+[m
+[32m+[m
+[32m+[m[32m        }[m
+[32m+[m
+[32m+[m[32m        static void uniqueCharacters()[m
+[32m+[m[32m        {[m
+[32m+[m[32m            Console.WriteLine("Enter a string");[m
+[32m+[m[32m            string getString = Console.ReadLine();[m
+[32m+[m[32m            bool flag = false;[m
+[32m+[m[32m            for (int i = 0; i < getString.Length; i++)[m
+[32m+[m[32m            {[m
+[32m+[m[32m                for (int j = i + 1; j < getString.Length; j++)[m
+[32m+[m[32m                {[m
+[32m+[m[32m                    if (getString[i] == getString[j])[m
+[32m+[m[32m                    {[m
+[32m+[m[32m                        Console.WriteLine("String have duplicate characters");[m
+[32m+[m[32m                        flag = true;[m
+[32m+[m[32m                        return;[m
+[32m+[m[32m                    }[m
+[32m+[m[32m                }[m
+[32m+[m[32m            }[m
+[32m+[m[32m            if (!flag)[m
+[32m+[m[32m            {[m
+[32m+[m[32m                Console.WriteLine("String have unique characters");[m
+[32m+[m[32m            }[m
+[32m+[m[32m        }[m
+         #endregion[m
+ [m
+         static void Main(string[] args)[m
+[36m@@ -200,8 +243,10 @@[m [mnamespace StringExercises[m
+             //copyString();[m
+             //reverseString();[m
+             //ConcatenateString();[m
+[31m-            //Compare2Strings();[m
+[31m-            checkPalindrome();[m
+[32m+[m[32m            // Compare2Strings();[m
+[32m+[m[32m            //checkPalindrome();[m
+[32m+[m[32m            //  addNumericString();[m
+[32m+[m[32m            uniqueCharacters();[m
+ [m
+             Console.ReadKey();[m
+         }[m

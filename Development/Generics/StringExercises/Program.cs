@@ -127,6 +127,12 @@ namespace StringExercises
             {
                 Console.WriteLine("First string is lexicographically greater than second.");
             }
+
+            List<string> collectin = new List<string>();
+            collectin.Add("string1");
+            collectin.Add("astring2");
+            IEnumerable<string> b = new List<string>();
+            b = collectin.Where(co => co.StartsWith("a"));
         }
 
         static void reverseString()
@@ -192,6 +198,43 @@ namespace StringExercises
             }
         }
 
+        static void addNumericString()
+        {
+            Console.WriteLine("Enter a number");
+            int getNumber = Convert.ToInt32(Console.ReadLine());
+            int sum = 0;
+            for (int m = 0; getNumber != 0; m++)
+            {
+                sum = sum + getNumber % 10;
+                getNumber = getNumber / 10;
+            }
+            Console.WriteLine("Result is - {0}", sum);
+
+
+        }
+
+        static void uniqueCharacters()
+        {
+            Console.WriteLine("Enter a string");
+            string getString = Console.ReadLine();
+            bool flag = false;
+            for (int i = 0; i < getString.Length; i++)
+            {
+                for (int j = i + 1; j < getString.Length; j++)
+                {
+                    if (getString[i] == getString[j])
+                    {
+                        Console.WriteLine("String have duplicate characters");
+                        flag = true;
+                        return;
+                    }
+                }
+            }
+            if (!flag)
+            {
+                Console.WriteLine("String have unique characters");
+            }
+        }
         #endregion
 
         static void Main(string[] args)
@@ -200,8 +243,10 @@ namespace StringExercises
             //copyString();
             //reverseString();
             //ConcatenateString();
-            //Compare2Strings();
-            checkPalindrome();
+            // Compare2Strings();
+            //checkPalindrome();
+            //  addNumericString();
+            uniqueCharacters();
 
             Console.ReadKey();
         }
