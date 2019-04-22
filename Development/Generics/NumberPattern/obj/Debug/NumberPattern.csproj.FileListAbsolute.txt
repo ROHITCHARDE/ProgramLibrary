@@ -9,3 +9,8 @@ E:\ProgramLibrary\Development\Generics\NumberPattern\bin\Debug\NumberPattern.pdb
 E:\ProgramLibrary\Development\Generics\NumberPattern\obj\Debug\NumberPattern.exe
 E:\ProgramLibrary\Development\Generics\NumberPattern\obj\Debug\NumberPattern.pdb
 E:\ProgramLibrary\Development\Generics\NumberPattern\obj\Debug\NumberPattern.csprojResolveAssemblyReference.cache
+E:\ProgramLibraryR\ProgramLibrary\Development\Generics\NumberPattern\bin\Debug\NumberPattern.exe.config
+E:\ProgramLibraryR\ProgramLibrary\Development\Generics\NumberPattern\bin\Debug\NumberPattern.exe
+E:\ProgramLibraryR\ProgramLibrary\Development\Generics\NumberPattern\bin\Debug\NumberPattern.pdb
+E:\ProgramLibraryR\ProgramLibrary\Development\Generics\NumberPattern\obj\Debug\NumberPattern.exe
+E:\ProgramLibraryR\ProgramLibrary\Development\Generics\NumberPattern\obj\Debug\NumberPattern.pdb

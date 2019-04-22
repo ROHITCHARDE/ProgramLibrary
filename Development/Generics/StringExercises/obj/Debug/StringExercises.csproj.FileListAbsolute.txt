@@ -4,3 +4,8 @@ E:\ProgramLibrary\Development\Generics\StringExercises\bin\Debug\StringExercises
 E:\ProgramLibrary\Development\Generics\StringExercises\obj\Debug\StringExercises.csprojResolveAssemblyReference.cache
 E:\ProgramLibrary\Development\Generics\StringExercises\obj\Debug\StringExercises.exe
 E:\ProgramLibrary\Development\Generics\StringExercises\obj\Debug\StringExercises.pdb
+E:\ProgramLibraryR\ProgramLibrary\Development\Generics\StringExercises\bin\Debug\StringExercises.exe.config
+E:\ProgramLibraryR\ProgramLibrary\Development\Generics\StringExercises\bin\Debug\StringExercises.exe
+E:\ProgramLibraryR\ProgramLibrary\Development\Generics\StringExercises\bin\Debug\StringExercises.pdb
+E:\ProgramLibraryR\ProgramLibrary\Development\Generics\StringExercises\obj\Debug\StringExercises.exe
+E:\ProgramLibraryR\ProgramLibrary\Development\Generics\StringExercises\obj\Debug\StringExercises.pdb
