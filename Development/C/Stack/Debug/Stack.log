@@ -1,0 +1,6 @@
+﻿  Stack.c
+e:\programlibraryr\programlibrary\development\c\stack\stack.c(9): warning C4013: 'getch' undefined; assuming extern returning int
+e:\programlibraryr\programlibrary\development\c\stack\stack.c(5): warning C4047: 'initializing': 'const int *' differs in levels of indirection from 'int'
+e:\programlibraryr\programlibrary\development\c\stack\stack.c(8): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 2 has type 'const int *'
+  Stack.vcxproj -> E:\ProgramLibraryR\ProgramLibrary\Development\Csharp\Debug\Stack.exe
+  Stack.vcxproj -> E:\ProgramLibraryR\ProgramLibrary\Development\Csharp\Debug\Stack.pdb (Partial PDB)

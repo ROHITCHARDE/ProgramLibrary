@@ -10,3 +10,9 @@ E:\ProgramLibrary\Development\Generics\Generics\bin\Debug\Generics.pdb
 E:\ProgramLibrary\Development\Generics\Generics\obj\Debug\Generics.csprojResolveAssemblyReference.cache
 E:\ProgramLibrary\Development\Generics\Generics\obj\Debug\Generics.exe
 E:\ProgramLibrary\Development\Generics\Generics\obj\Debug\Generics.pdb
+E:\ProgramLibraryR\ProgramLibrary\Development\Csharp\Generics\bin\Debug\Generics.exe.config
+E:\ProgramLibraryR\ProgramLibrary\Development\Csharp\Generics\obj\Debug\Generics.exe
+E:\ProgramLibraryR\ProgramLibrary\Development\Csharp\Generics\obj\Debug\Generics.pdb
+E:\ProgramLibraryR\ProgramLibrary\Development\Csharp\Generics\bin\Debug\Generics.exe
+E:\ProgramLibraryR\ProgramLibrary\Development\Csharp\Generics\bin\Debug\Generics.pdb
+E:\ProgramLibraryR\ProgramLibrary\Development\Csharp\Generics\obj\Debug\Generics.csprojResolveAssemblyReference.cache

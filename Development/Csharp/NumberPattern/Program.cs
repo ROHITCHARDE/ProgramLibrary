@@ -131,7 +131,6 @@ namespace NumberPattern
             }
         }
 
-
         static void Main(string[] args)
         {
             Program.printTrianglePattern();

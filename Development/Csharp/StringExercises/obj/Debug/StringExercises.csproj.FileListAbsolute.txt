@@ -9,3 +9,8 @@ E:\ProgramLibraryR\ProgramLibrary\Development\Generics\StringExercises\bin\Debug
 E:\ProgramLibraryR\ProgramLibrary\Development\Generics\StringExercises\bin\Debug\StringExercises.pdb
 E:\ProgramLibraryR\ProgramLibrary\Development\Generics\StringExercises\obj\Debug\StringExercises.exe
 E:\ProgramLibraryR\ProgramLibrary\Development\Generics\StringExercises\obj\Debug\StringExercises.pdb
+E:\ProgramLibraryR\ProgramLibrary\Development\Csharp\StringExercises\bin\Debug\StringExercises.exe.config
+E:\ProgramLibraryR\ProgramLibrary\Development\Csharp\StringExercises\bin\Debug\StringExercises.exe
+E:\ProgramLibraryR\ProgramLibrary\Development\Csharp\StringExercises\bin\Debug\StringExercises.pdb
+E:\ProgramLibraryR\ProgramLibrary\Development\Csharp\StringExercises\obj\Debug\StringExercises.exe
+E:\ProgramLibraryR\ProgramLibrary\Development\Csharp\StringExercises\obj\Debug\StringExercises.pdb

@@ -235,6 +235,15 @@ namespace StringExercises
                 Console.WriteLine("String have unique characters");
             }
         }
+
+        static void stringCompression()
+        {
+            Console.WriteLine("Enter a string");
+            string getString = Console.ReadLine();
+
+
+            
+        }
         #endregion
 
         static void Main(string[] args)

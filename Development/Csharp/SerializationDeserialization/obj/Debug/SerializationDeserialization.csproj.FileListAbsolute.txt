@@ -1,0 +1,6 @@
+E:\ProgramLibraryR\ProgramLibrary\Development\Csharp\SerializationDeserialization\bin\Debug\SerializationDeserialization.exe.config
+E:\ProgramLibraryR\ProgramLibrary\Development\Csharp\SerializationDeserialization\bin\Debug\SerializationDeserialization.exe
+E:\ProgramLibraryR\ProgramLibrary\Development\Csharp\SerializationDeserialization\bin\Debug\SerializationDeserialization.pdb
+E:\ProgramLibraryR\ProgramLibrary\Development\Csharp\SerializationDeserialization\obj\Debug\SerializationDeserialization.exe
+E:\ProgramLibraryR\ProgramLibrary\Development\Csharp\SerializationDeserialization\obj\Debug\SerializationDeserialization.pdb
+E:\ProgramLibraryR\ProgramLibrary\Development\Csharp\SerializationDeserialization\obj\Debug\SerializationDeserialization.csprojResolveAssemblyReference.cache

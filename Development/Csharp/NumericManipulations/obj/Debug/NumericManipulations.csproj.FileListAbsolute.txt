@@ -1,0 +1,6 @@
+E:\ProgramLibraryR\ProgramLibrary\Development\Csharp\NumericManipulations\bin\Debug\NumericManipulations.exe.config
+E:\ProgramLibraryR\ProgramLibrary\Development\Csharp\NumericManipulations\bin\Debug\NumericManipulations.exe
+E:\ProgramLibraryR\ProgramLibrary\Development\Csharp\NumericManipulations\bin\Debug\NumericManipulations.pdb
+E:\ProgramLibraryR\ProgramLibrary\Development\Csharp\NumericManipulations\obj\Debug\NumericManipulations.csprojResolveAssemblyReference.cache
+E:\ProgramLibraryR\ProgramLibrary\Development\Csharp\NumericManipulations\obj\Debug\NumericManipulations.exe
+E:\ProgramLibraryR\ProgramLibrary\Development\Csharp\NumericManipulations\obj\Debug\NumericManipulations.pdb
